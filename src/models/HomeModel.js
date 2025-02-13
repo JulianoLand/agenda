@@ -8,6 +8,6 @@
 //     descricao: String,
 // })
 
-// const HomeModel = mongoose.model('blabla', HomeSchema); //No lugar de 'blabla' podemos colocar o nome da coleção
+// const HomeModel = mongoose.model('home', HomeSchema); //No lugar de 'blabla' podemos colocar o nome da coleção
 
 // module.exports = HomeModel;
